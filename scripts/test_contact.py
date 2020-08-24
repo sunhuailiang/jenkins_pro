@@ -6,7 +6,7 @@ class TestContact:
         assert 1
 
     def test_contact2(self):
-        assert 1
+        assert 0
 
     def test_contact3(self):
         assert 17
